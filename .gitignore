@@ -1,0 +1,7 @@
+#ignore .idea config files
+.idea/
+#ignore compile target files
+target/
+#ignore other files
+dependency*.xml
+
